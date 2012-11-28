@@ -1,2 +1,1 @@
-Huffman
-=======
+Simple huffman codding/decoding.
